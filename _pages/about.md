@@ -12,4 +12,4 @@ I am very fortunate to be advised by [Prof. ChengLiang(梁成)](https://www.XXX.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2023028010@stu.sdnu.edu.cn) / [Github](https://github.com/RenFuJian) / [Wechat](../images/wechat.jpg) / [CSDN]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://blog.csdn.net/m0_46580126?spm=1000.2115.3001.5343))
+[Email](mailto:2023028010@stu.sdnu.edu.cn) / [Github](https://github.com/RenFuJian) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_46580126?spm=1000.2115.3001.5343)
