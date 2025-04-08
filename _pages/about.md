@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of Information Science And Engineering](http://www.ischool.sdnu.edu.cn/), [ShanDong Normal University](https://www.sdnu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a master's degree student from [School of Information Science And Engineering](http://www.ischool.sdnu.edu.cn/), [ShanDong Normal University](https://www.sdnu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 I am very fortunate to be advised by [Prof. ChengLiang(梁成)](https://alcs417.github.io/) of Machine Learning and Big Data Lab from [School of Information Science And Engineering](http://www.ischool.sdnu.edu.cn/), [ShanDong Normal University](https://www.sdnu.edu.cn/).
 
